@@ -1,0 +1,10 @@
+# Assembler debug file for MCU 8051 IDE v1.4.7
+# Used assembler: MCU 8051 IDE
+# Date: 02/27/2015
+9D1BC6B859FB122F54B7A58BAA97DE75 "Multiply.asm" 
+0 2 0 116 22
+0 3 2 117 240 2
+0 4 5 164
+0 5 6 116 34
+0 6 8 117 240 16
+0 7 11 164

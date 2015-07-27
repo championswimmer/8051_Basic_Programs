@@ -1,0 +1,9 @@
+# Assembler debug file for MCU 8051 IDE v1.4.7
+# Used assembler: MCU 8051 IDE
+# Date: 02/27/2015
+F28C12C05DFD5157F8C07971B54E62CC "Serialise.asm" 
+0 2 0 116 170
+0 3 2 19
+0 4 3 146 147
+0 5 5 170 144
+0 6 7 128 249

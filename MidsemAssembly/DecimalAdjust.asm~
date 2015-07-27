@@ -1,0 +1,4 @@
+ORG 0
+MOV A, #27H
+ADD A, #45H
+DA A
